@@ -1,0 +1,83 @@
+################################################################################
+#                                                                              #
+#  Spiffatron configuration file                                               #
+#                                                                              #
+#  Author:                              Blue_595#2315                          #
+#  Target server:                       Voidstar Lab Discord                   #
+#  Date created:                        2021-07-22                             #
+#  Date updated:                        2021-07-22                             #
+#                                                                              #
+################################################################################
+
+based                                   :spiffybased:
+bonk                                    :spiffybonk:
+bruh                                    :spiffybruh:
+but                                     :spiffybut:
+heck                                    :spiffyhck:
+help                                    :spiffyhelp:
+hmm                                     :spiffyhmm:
+jank                                    :spiffyjank:
+kinda                                   :spiffykinda:
+lab                                     :voidstarlab:
+magic                                   :spiffymagic:
+meh                                     :spiffymeh:
+nani                                    :spiffynani:
+noice                                   :spiffynoice:
+nope                                    :spiffynope:
+oof                                     :spiffyoof:
+rad                                     :spiffyrad:
+spiffy                                  :spiffyspiffy:
+star                                    :voidstarstar:
+super                                   :spiffysuper:
+sus                                     :spiffysus:
+this                                    :spiffythis:
+voidstar                                :voidstar:
+void                                    :voidstarvoid:
+whoa                                    :spiffywhoa:
+why                                     :spiffywhy:
+yikes                                   :spiffyyikes:
+yup                                     :spiffyyup:
+
+a                                       :spiffya:
+b                                       :spiffyb:
+c                                       :spiffyc:
+d                                       :spiffyd:
+e                                       :spiffye:
+f                                       :spiffyf:
+g                                       :spiffyg:
+h                                       :spiffyh:
+i                                       :spiffyi:
+j                                       :spiffyj:
+k                                       :spiffyk:
+l                                       :spiffyl:
+m                                       :spiffym:
+n                                       :spiffyn:
+o                                       :spiffyo:
+p                                       :spiffyp:
+q                                       :spiffyq:
+r                                       :spiffyr:
+s                                       :spiffys:
+t                                       :spiffyt:
+u                                       :spiffyu:
+v                                       :spiffyv:
+w                                       :spiffyw:
+x                                       :spiffyx:
+y                                       :spiffyy:
+z                                       :spiffyz:
+
+0                                       :spiffy0:
+1                                       :spiffy1:
+2                                       :spiffy2:
+3                                       :spiffy3:
+4                                       :spiffy4:
+5                                       :spiffy5:
+6                                       :spiffy6:
+7                                       :spiffy7:
+8                                       :spiffy8:
+9                                       :spiffy9:
+
+!                                       :spiffybang:
+?                                       :spiffyquestion:
+:                                       :spiffycolon:
+$                                       :spiffybuck:
+<3                                      :spiffyheart:
